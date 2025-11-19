@@ -1,4 +1,4 @@
-```stack = []
+stack = []
 code diatas artinya membuat stack kosong.
 
 PUSH yaitu menambahkan data ke paling  atas
