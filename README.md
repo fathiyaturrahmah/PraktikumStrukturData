@@ -50,6 +50,7 @@ print("Size: ", len(queue))
 len(queue) menghitung jumlah elemen dalam queue.
 
 
+
 STACK
 Stack = tumpukan data
 Stack menggunakan metode LIFO (Last In First Out) → yang masuk terakhir, keluar duluan.
