@@ -1,1 +1,1 @@
-PraktikumStrukturData
+**PraktikumStrukturData**
