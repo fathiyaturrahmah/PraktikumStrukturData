@@ -1,4 +1,5 @@
-QUEUE  
+##QUEUE##  
+---
 Queue = antrian  
 Queue menggunakan metode **FIFO (First In First Out)** → yang masuk duluan, keluar duluan
 
@@ -49,11 +50,12 @@ print("Size: ", len(queue))
 ```
 len(queue) menghitung jumlah elemen dalam queue.
 
+---
 
-
-STACK
+##STACK##
+---
 Stack = tumpukan data
-Stack menggunakan metode LIFO (Last In First Out) → yang masuk terakhir, keluar duluan.
+Stack menggunakan metode **LIFO (Last In First Out)** → yang masuk terakhir, keluar duluan.
 
 1 membuat stack
 ```
@@ -101,4 +103,3 @@ True jika stack kosong.
 print("Size: ", len(stack))
 ```
 Menampilkan jumlah elemen dalam stack.
-
