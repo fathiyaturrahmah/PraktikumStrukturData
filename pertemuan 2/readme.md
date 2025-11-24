@@ -87,7 +87,7 @@ def remove_first(self):
     else:
         self.head = self.head.next
 ```
-📌 Penjelasan:
+Penjelasan:
 Head baru akan menjadi node kedua.
 
 7. remove_last() — Hapus Node Terakhir
